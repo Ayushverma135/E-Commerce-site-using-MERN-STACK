@@ -2,6 +2,37 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+
+The project uses the following dependencies:
+
+- **@emotion/react** `^11.13.0`: A library for writing CSS styles with JavaScript.
+- **@emotion/styled** `^11.13.0`: A styled-components library for Emotion.
+- **@mui/icons-material** `^5.16.7`: Material UI icons library.
+- **@mui/material** `^5.16.7`: Material UI core library for React.
+- **@reduxjs/toolkit** `^2.2.7`: The official, opinionated, batteries-included toolset for efficient Redux development.
+- **@testing-library/jest-dom** `^5.17.0`: Custom jest matchers to test the state of the DOM.
+- **@testing-library/react** `^13.4.0`: Simple and complete React DOM testing utilities.
+- **@testing-library/user-event** `^13.5.0`: Simulates user events for testing React components.
+- **axios** `^1.7.4`: Promise-based HTTP client for the browser and Node.js.
+- **react** `^18.3.1`: A JavaScript library for building user interfaces.
+- **react-countdown** `^2.3.6`: A customizable countdown component for React.
+- **react-dom** `^18.3.1`: Provides DOM-specific methods that can be used at the top level of a web app.
+- **react-multi-carousel** `^2.8.5`: A flexible and responsive carousel component for React.
+- **react-redux** `^9.1.2`: Official React bindings for Redux.
+- **react-router-dom** `^6.26.1`: Declarative routing for React web applications.
+- **react-scripts** `5.0.1`: Scripts and configuration used by Create React App.
+- **redux** `^5.0.1`: A predictable state container for JavaScript apps.
+- **redux-devtools-extension** `^2.13.9`: Redux DevTools extension.
+- **web-vitals** `^2.1.4`: A library for measuring the quality of user experience of your site.
+
+To install all dependencies, run the following command in your project directory:
+
+```bash
+npm install @emotion/react@^11.13.0 @emotion/styled@^11.13.0 @mui/icons-material@^5.16.7 @mui/material@^5.16.7 @reduxjs/toolkit@^2.2.7 @testing-library/jest-dom@^5.17.0 @testing-library/react@^13.4.0 @testing-library/user-event@^13.5.0 axios@^1.7.4 react@^18.3.1 react-countdown@^2.3.6 react-dom@^18.3.1 react-multi-carousel@^2.8.5 react-redux@^9.1.2 react-router-dom@^6.26.1 react-scripts@5.0.1 redux@^5.0.1 redux-devtools-extension@^2.13.9 web-vitals@^2.1.4
+
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
